@@ -1,6 +1,7 @@
 # Prime-Numbers-In-Python
 
 **Introduction**
+
 This project aims create a function to test if a number is prime in Python.
 
 Questions:
@@ -9,6 +10,7 @@ Questions:
 3. Optimizing the code with math module with sqrt() function
 
 **Tools**
+
 Jupyter Notebook
 
 ## **Part 1: Create a function to check if a number is a prime number**
